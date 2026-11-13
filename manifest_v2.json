@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "com.kernelsu.watch",
+    "restype": "quick_app",
+    "name": "KernelSU管理器",
+    "description": "小米手环版的root管理器，没有实际作用，里面功能齐全，跟手机版的差不多。如果你们想要给我加一些功能之类的，提出来，我看情况更新",
+    "preview": [
+      "media/1000010351.png",
+      "media/1000010352.png",
+      "media/1000010350.png",
+      "media/1000010348.png",
+      "media/1000010347.png"
+    ],
+    "icon": "media/1000010357.png",
+    "cover": "media/1000010356.png",
+    "author": [
+      {
+        "name": "shandongximo",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "3.5.0",
+      "file_name": "downloads/KernelSU.rpk",
+      "versionCode": 350
+    }
+  },
+  "ext": {}
+}
